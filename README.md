@@ -3,6 +3,8 @@
 
 #### This was a part of a Kaggle competition. The dataset was released by he NYC Taxi and Limousine Commission, which includes pickup time, geo-coordinates, number of passengers, and several other variables.
 
+[Visit the New York Trip Duration Competition on Kaggle](https://www.kaggle.com/c/nyc-taxi-trip-duration)
+
 ## Evaluation Metrics
 
 #### The evaluation metric for this competition is Root Mean Squared Logarithmic Error.
