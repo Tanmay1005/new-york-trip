@@ -7,6 +7,10 @@
 
 #### The evaluation metric for this competition is Root Mean Squared Logarithmic Error.
 
-The RMSLE is calculated as
 
-𝜖=1𝑛∑𝑖=1𝑛(log(𝑝𝑖+1)−log(𝑎𝑖+1))2‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾⎷
+We define the error term $\epsilon$ as follows:
+
+$$
+\epsilon = \sqrt{\frac{1}{n} \sum_{i=1}^{n} \left( \log(p_i + 1) - \log(a_i + 1) \right)^2}
+$$
+
